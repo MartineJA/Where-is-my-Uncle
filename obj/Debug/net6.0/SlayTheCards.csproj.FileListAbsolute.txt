@@ -1,0 +1,14 @@
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\bin\Debug\net6.0\SlayTheCards.exe
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\bin\Debug\net6.0\SlayTheCards.deps.json
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\bin\Debug\net6.0\SlayTheCards.runtimeconfig.json
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\bin\Debug\net6.0\SlayTheCards.dll
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\bin\Debug\net6.0\SlayTheCards.pdb
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.AssemblyInfoInputs.cache
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.AssemblyInfo.cs
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.dll
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\refint\SlayTheCards.dll
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.pdb
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\SlayTheCards.genruntimeconfig.cache
+C:\Users\Etudiant 3W\source\repos\SlayTheCards\SlayTheCards\obj\Debug\net6.0\ref\SlayTheCards.dll
