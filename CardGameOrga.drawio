@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T14:31:52.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Nzs_tDoI6LMA9Wr13hvL" version="22.0.8" type="github" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Classes">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orga de Where is my Uncle" style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;swimlaneLine=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="710" height="920" as="geometry" />
+        </mxCell>
+        <UserObject label="Program&lt;br&gt;&lt;i&gt;Déroulement du jeu&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;SuperClass&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="50" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Cartes&lt;br&gt;&lt;i&gt;Comportement global des cartes&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="245" y="260" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Joueur&lt;br&gt;&lt;div&gt;&lt;i&gt;Comportement du joueur&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" collapsed="1">
+            <mxGeometry x="10" y="150" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Ennemi&lt;br&gt;&lt;i&gt;Comportement de l&#39;ennemi&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;SubClass&lt;/a&gt;&#x9;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="480" y="150" width="220" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Défense&lt;br&gt;&lt;i&gt;Spécification des cartes Défense&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Sub SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="On59a2iw0T15GdPAywp0-2">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="410" y="504.5" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="On59a2iw0T15GdPAywp0-1" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="On59a2iw0T15GdPAywp0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Attaque&lt;br&gt;&lt;i&gt;Spécification des cartes Attaque&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Sub SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="On59a2iw0T15GdPAywp0-3">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="410" y="380" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="On59a2iw0T15GdPAywp0-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="On59a2iw0T15GdPAywp0-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="260" as="sourcePoint" />
+            <mxPoint x="125" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Soins&lt;br&gt;&lt;div&gt;&lt;i&gt;Spécification des cartes&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Soins&lt;/i&gt;&lt;/div&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Sub SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="On59a2iw0T15GdPAywp0-6">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="410" y="630" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="On59a2iw0T15GdPAywp0-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="On59a2iw0T15GdPAywp0-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Psy&lt;br&gt;&lt;div&gt;&lt;i&gt;Spécification des cartes&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Psy&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Sub SubClass&lt;/a&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="On59a2iw0T15GdPAywp0-25">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="410" y="760" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="On59a2iw0T15GdPAywp0-26" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="On59a2iw0T15GdPAywp0-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7Xhm8KlvpinLtART7UZC" name="Page-2">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
