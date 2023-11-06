@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Effet_des_cartes/1.0.0": {
+        "runtime": {
+          "Effet_des_cartes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Effet_des_cartes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

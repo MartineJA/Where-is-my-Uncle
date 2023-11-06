@@ -1,0 +1,14 @@
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\bin\Debug\net6.0\Effet_des_cartes.exe
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\bin\Debug\net6.0\Effet_des_cartes.deps.json
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\bin\Debug\net6.0\Effet_des_cartes.runtimeconfig.json
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\bin\Debug\net6.0\Effet_des_cartes.dll
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\bin\Debug\net6.0\Effet_des_cartes.pdb
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.AssemblyInfoInputs.cache
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.AssemblyInfo.cs
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.dll
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\refint\Effet_des_cartes.dll
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.pdb
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\Effet_des_cartes.genruntimeconfig.cache
+C:\Users\Etudiant 3W\source\repos\Effet_des_cartes\Effet_des_cartes\obj\Debug\net6.0\ref\Effet_des_cartes.dll
